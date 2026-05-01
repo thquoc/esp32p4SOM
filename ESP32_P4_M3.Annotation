@@ -1,0 +1,47 @@
+[DesignatorManager]
+LogicalDesignator0=RJ1
+LogicalPartID0=1
+DocumentName0=ETH-PHY.SchDoc
+ChannelName0=Designator
+UniqueID0=\WZUIHCYU\CMGUZCVV
+PhysicalDesignator0=SS
+PhysicalDesignatorLocked0=0
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=AUDIO CODEC.SchDoc
+UniqueIDPath0=\JKRGFNSJ
+SheetNumber0=2
+DocumentName1=DSI&CSI CONNECTOR.SchDoc
+UniqueIDPath1=\NSXQJIGO
+SheetNumber1=7
+DocumentName2=ETH-PHY.SchDoc
+UniqueIDPath2=\WZUIHCYU
+SheetNumber2=8
+DocumentName3=interfaceUART&I2C.SchDoc
+UniqueIDPath3=\QPWKZFCN
+SheetNumber3=3
+DocumentName4=Main.SchDoc
+UniqueIDPath4=
+SheetNumber4=1
+DocumentName5=MICROSD CARD.SchDoc
+UniqueIDPath5=\DRIXKBEQ
+SheetNumber5=4
+DocumentName6=Power.SchDoc
+UniqueIDPath6=\ULBKHSEL
+SheetNumber6=5
+DocumentName7=RELAY.SchDoc
+UniqueIDPath7=\OJYAQBWE
+SheetNumber7=11
+DocumentName8=SENSOR.SchDoc
+UniqueIDPath8=\ZCTHVRPD
+SheetNumber8=10
+DocumentName9=SOM.SchDoc
+UniqueIDPath9=\JEZWAXTB
+SheetNumber9=9
+DocumentName10=USB.SchDoc
+UniqueIDPath10=\MBDAJNFP
+SheetNumber10=6
+
+
